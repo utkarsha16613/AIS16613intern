@@ -44,3 +44,9 @@ Dataframe operations : apply,unique, groupby, pivot_table, sort_values
 selection : column, row selection, delete, update, index, remove index, operations between two columns.
 
 Missing value : Detection, delete row, delete column, Missinf value fill- mean, median, mode.
+
+# Day 6 - 
+
+Task 6 : 
+
+Data visualization : scatter Plot, Bar plot, pie chart, Line plot, Histogram, Subplots, Regression Plots, residual Plots in Matplotlib and Seaborn library
