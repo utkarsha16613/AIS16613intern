@@ -31,10 +31,16 @@ Task 4 :
          NumPy Random
          NumPy ufunc.
   
-# day 5 - 
+# Day 5 - 
+
 Task 5 : 
+
 Series : creation and operation
+
 Dataframe : read csv, dataframe creation using matrix, dictionary
+
 Dataframe operations : apply,unique, groupby, pivot_table, sort_values
+
 selection : column, row selection, delete, update, index, remove index, operations between two columns.
+
 Missing value : Detection, delete row, delete column, Missinf value fill- mean, median, mode.
