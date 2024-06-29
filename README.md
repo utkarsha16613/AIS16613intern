@@ -50,3 +50,10 @@ Missing value : Detection, delete row, delete column, Missinf value fill- mean, 
 Task 6 : 
 
 Data visualization : scatter Plot, Bar plot, pie chart, Line plot, Histogram, Subplots, Regression Plots, residual Plots in Matplotlib and Seaborn library
+
+# Day 7 -
+
+Task 7 : 
+Exercise Solving on Ecommerce purchases data, Data on Salary and Numpy exercise.
+
+
